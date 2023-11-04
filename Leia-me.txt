@@ -1,0 +1,8 @@
+﻿Software de exemplo para terminais de consulta preço - TANCA
+
+Arquivos necessários para execução: 
+
+sqlite3.dll
+VP_v3.dll
+
+
